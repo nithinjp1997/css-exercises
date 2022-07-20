@@ -1,4 +1,4 @@
-.one,.three{
+.odd{
     background-color: pink;
     font-family:"Verdana","DejaVu Sans","sans-serif";
 }
@@ -6,7 +6,7 @@
     color: blue;
     font-size: 36px;
 }
-.three{
+.odd.cool{
     font-size: 24px;
 }
 #four{
